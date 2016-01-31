@@ -39,12 +39,10 @@ For each record it is provided:
 The dataset includes the following files:
 =========================================
 
-- 'README.md’ - describes the files for the
-
 - ‘run_analysis.R’ - R code used for creating the ‘averages_data.txt’ file
 
 - ‘Codebook.md’: a code book that describes the variables, the data, and any transformations or work that you performed to clean up the data.
 
-- ‘averages_data.txt': A tidy data set with the average of each variable for each activity and each subject.
+- ‘averages_data.csv': A tidy data set with the average of each variable for each activity and each subject.
 
 
